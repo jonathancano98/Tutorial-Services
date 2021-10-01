@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Persona": 3
+  },
+  "models": {
+    "Persona": {
+      "Jonathan": "{\"Nombre\":\"Jonathan\",\"Pass\":\"JJJ\",\"Rol\":\"Alumno\",\"Puntos\":2}",
+      "Laura": "{\"Nombre\":\"Laura\",\"Pass\":\"LLL\",\"Rol\":\"Alumno\",\"Puntos\":2}",
+      "Miguel": "{\"Nombre\":\"Miguel\",\"Pass\":\"MMM\",\"Rol\":\"Profesor\",\"Puntos\":2}",
+      "Sofia": "{\"Nombre\":\"Sofia\",\"Pass\":\"SSS\",\"Rol\":\"Alumno\",\"Puntos\":2}",
+      "Angel": "{\"Nombre\":\"Angel\",\"Pass\":\"AAA\",\"Rol\":\"Profesor\",\"Puntos\":2}",
+      "Uri": "{\"Nombre\":\"Uri\",\"Pass\":\"UUU\",\"Rol\":\"Alumno\",\"Puntos\":2}"
+    }
+  }
+}
