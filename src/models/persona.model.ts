@@ -8,25 +8,25 @@ export class Persona extends Entity {
     //generated: false,
     required: true,
   })
-  Nombre: string;
+  nombre: string;
 
   @property({
     type: 'string',
     required: true,
   })
-  Pass: string;
+  contra: string;
 
   @property({
     type: 'string',
     required: true,
   })
-  Rol: string;
+  rol: string;
 
   @property({
     type: 'number',
     required: true,
   })
-  Puntos: number;
+  puntuacion: number;
 
 
   constructor(data?: Partial<Persona>) {

@@ -1,15 +1,15 @@
 {
   "ids": {
-    "Persona": 3
+    "Persona": 7
   },
   "models": {
     "Persona": {
-      "Jonathan": "{\"Nombre\":\"Jonathan\",\"Pass\":\"JJJ\",\"Rol\":\"Alumno\",\"Puntos\":2}",
-      "Laura": "{\"Nombre\":\"Laura\",\"Pass\":\"LLL\",\"Rol\":\"Alumno\",\"Puntos\":2}",
-      "Miguel": "{\"Nombre\":\"Miguel\",\"Pass\":\"MMM\",\"Rol\":\"Profesor\",\"Puntos\":2}",
-      "Sofia": "{\"Nombre\":\"Sofia\",\"Pass\":\"SSS\",\"Rol\":\"Alumno\",\"Puntos\":2}",
-      "Angel": "{\"Nombre\":\"Angel\",\"Pass\":\"AAA\",\"Rol\":\"Profesor\",\"Puntos\":2}",
-      "Uri": "{\"Nombre\":\"Uri\",\"Pass\":\"UUU\",\"Rol\":\"Alumno\",\"Puntos\":2}"
+      "Jonathan": "{\"nombre\":\"Jonathan\",\"contra\":\"JJJ\",\"rol\":\"Alumno\",\"puntuacion\":2}",
+      "Laura": "{\"nombre\":\"Laura\",\"contra\":\"LLL\",\"rol\":\"Alumno\",\"puntuacion\":2}",
+      "Miguel": "{\"nombre\":\"Miguel\",\"contra\":\"MMM\",\"rol\":\"Profesor\",\"puntuacion\":2}",
+      "Sofia": "{\"nombre\":\"Sofia\",\"contra\":\"SSS\",\"rol\":\"Alumno\",\"puntuacion\":2}",
+      "Angel": "{\"nombre\":\"Angel\",\"contra\":\"AAA\",\"rol\":\"Profesor\",\"puntuacion\":2}",
+      "Uri": "{\"nombre\":\"Uri\",\"contra\":\"UUU\",\"rol\":\"Alumno\",\"puntuacion\":2}"
     }
   }
 }
